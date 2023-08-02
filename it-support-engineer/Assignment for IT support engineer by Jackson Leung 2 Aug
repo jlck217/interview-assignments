@@ -1,0 +1,6 @@
+Device Name: BBAOMACBOOKAIR2
+Process ID: 108
+Process Name: mdmclient
+Description: Failed to bootstrap /usr/libexec/mdmclient – MAC OS crashed or freezes 
+Time window: 00:02:12-00:22:18, 00:43:24 – 23:45:33
+Number of Occurrence: 29
